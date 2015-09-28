@@ -45,6 +45,7 @@ obj-$(CONFIG_S3C64XX_SETUP_USB_PHY) += setup-usb-phy.o
 obj-$(CONFIG_MACH_ANW6410)		+= mach-anw6410.o
 obj-$(CONFIG_MACH_HMT)			+= mach-hmt.o
 obj-$(CONFIG_MACH_MINI6410)		+= mach-mini6410.o
+obj-$(CONFIG_MACH_OK6410)               += mach-ok6410.o
 obj-$(CONFIG_MACH_NCP)			+= mach-ncp.o
 obj-$(CONFIG_MACH_REAL6410)		+= mach-real6410.o
 obj-$(CONFIG_MACH_SMARTQ)		+= mach-smartq.o
